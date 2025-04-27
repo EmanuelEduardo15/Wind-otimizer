@@ -35,4 +35,6 @@ pip install cupy-cuda12x
 ```
 numpy==1.26.0
 scipy==1.11.3
+fastapi==0.104.1
 pytest==7.4.2
+uvicorn==0.23.2
