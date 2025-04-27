@@ -4,8 +4,10 @@
 **Clientes-Alvo:** EDP Renováveis, Ørsted, Iberdrola  
 **Precisão:** Aumento de 25% na eficiência energética  
 
-![Simulação de Turbulência](docs/images/wind-simulation.gif)  
-*Simulação de turbulência em parque eólico offshore usando UGAD++*  
+![Simulação de Turbulência]
+(docs/images/wind-simulation.gif)  
+*Simulação de turbulência em parque 
+eólico offshore usando UGAD++*  
 
 ## 📦 Instalação Completa
 
