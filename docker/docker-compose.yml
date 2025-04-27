@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - API_TOKEN=senha_secreta
+    depends_on:
+      - redis
+      - postgres
+
+  redis:
+    image: redis:alpine
+
+  postgres:
+    image: postgres:14
+    environment:
+      - POSTGRES_PASSWORD=senha_secreta
