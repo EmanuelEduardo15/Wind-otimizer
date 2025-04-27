@@ -17,7 +17,7 @@ eólico offshore usando UGAD++*
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/wind-optimizer.git
+git clone https://github.com/EmanuelEduardo15/wind-optimizer.git
 cd wind-optimizer
 
 # Crie um ambiente virtual (recomendado)
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 pip install cupy-cuda12x
 ```
 # Requeriments
-
+```
 numpy==1.26.0
 scipy==1.11.3
 pytest==7.4.2
