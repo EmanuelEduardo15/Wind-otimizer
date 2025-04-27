@@ -1,4 +1,4 @@
-# Proposta Comercial: UGAD WindOptimizer  
+# Proposta Comercial: WindOptimizer  
 **Cliente:** EDP Renováveis  
 **Benefícios:**  
 - Redução de custos operacionais: 15%  
@@ -8,4 +8,4 @@
 - Licença anual: €150.000  
 **Assinatura:**  
 __________________________  
-[Responsável EDP]
+Responsável EDP
