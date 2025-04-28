@@ -31,7 +31,7 @@ pip install -r requirements.txt
 # Para suporte a GPU (opcional)
 pip install cupy-cuda12x
 ```
-# Requeriments
+# Requirements
 ```
 numpy==1.26.0
 scipy==1.11.3
